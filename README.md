@@ -36,3 +36,9 @@ Copy `config.js.example` to `config.js` and set the options below.
    - `port` - The TCP port pfSense is listening on
    - `client_id` - The client ID for the pfSense API
    - `client_token` -  The client token for the pfSense API
+
+
+Screenshot
+----------
+
+![Sample Screenshot](screenshot.png "Sample Screenshot")
