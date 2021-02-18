@@ -4,6 +4,12 @@ u-r-grounded
 A NodeJS web app for easily blocking internet access for devices via pfSense NAT rules
 
 
+Caveats
+-------
+
+I only have access to iOS devices, so this will render best on an iOS device.  It should still look reasonable in just about any modern web browser.
+
+
 Prerequisites
 -------------
 
