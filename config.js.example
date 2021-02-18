@@ -1,0 +1,14 @@
+module.exports = {
+    devices: {
+        'cindy_ipad': "Cindy's iPad",
+        'johnny_laptop': "Johnny's Laptop"
+    },
+    http_port: 3000,
+    pfsense: {
+        address: '<pfsense IP address>',
+        protocol: '<pfsense http protocol>',
+        port: <pfsense http port>,
+        client_id: '<pfsense api client ID>',
+        client_token: '<pfsense api client token>'
+    }
+};
